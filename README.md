@@ -79,7 +79,8 @@ Playfair Display + Montserrat, шампань `#FBDDB1` на изумруде `#
 - Адаптивный интерфейс по брендбуку: Playfair Display + Inter, шампань `#FBDDB1` на изумруде `#073D37`.
 
 > **[Бренд-сайт — открыть онлайн](https://taniav21-maker.github.io/maro-site/)** ·
-> трекер — демо-доступ `master` / `maro-master` (демо скоро: после деплоя на Railway)
+> **[трекер — открыть живое демо](https://maro-tracker-production-f889.up.railway.app/)**
+> (демо-доступ `master` / `D1BEdwJ5HMXNSqfQ`)
 
 
 ## 🛠 Стек
@@ -97,11 +98,9 @@ Playfair Display + Montserrat, шампань `#FBDDB1` на изумруде `#
 
 ## 📸 Скриншоты
 
-<!-- TODO: вставить скриншоты из docs/screenshots/ после деплоя. -->
-
-| Админка: список заказов | Карточка заказа | Клиентское отслеживание |
-|---|---|---|
-| *(скоро)* | *(скоро)* | *(скоро)* |
+| Вход для команды | Админка: список заказов | Карточка заказа | Клиентское отслеживание |
+|---|---|---|---|
+| ![Вход](docs/screenshots/01-login.png) | ![Список заказов](docs/screenshots/02-admin-orders.png) | ![Карточка заказа](docs/screenshots/03-order-card.png) | ![Клиент](docs/screenshots/04-client-tracking.png) |
 
 
 ## 🗂 Как это устроено

@@ -19,7 +19,7 @@
 
 
 [![Live Site](https://img.shields.io/badge/Бренд--сайт%20онлайн-073D37?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://taniav21-maker.github.io/maro-site/)
-[![Код проекта](https://img.shields.io/badge/Код%20на%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniav21-maker/maro-tracker)
+[![Трекер заказов](https://img.shields.io/badge/Трекер%20заказов-C9A227?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniav21-maker/maro-tracker)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_NICK)
 
 

@@ -4,6 +4,11 @@
 -->
 
 
+<a href="https://taniav21-maker.github.io/maro-site/">
+  <img src="docs/banner.png" alt="MARO — цифровая экосистема ювелирного бренда ручной работы" width="100%">
+</a>
+
+
 <div align="center">
 
 
